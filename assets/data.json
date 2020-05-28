@@ -1,0 +1,30 @@
+{
+  "filterWord": "",
+  "sortMode": 1,
+  "cardList": [
+    {
+      "index": 0,
+      "name": "Покормить кота",
+      "isDone": false,
+      "isMode": false
+    },
+    {
+      "index": 1,
+      "name": "Приготовить обед",
+      "isDone": false,
+      "isMode": false
+    },
+    {
+      "index": 2,
+      "name": "Убраться в квартире",
+      "isDone": false,
+      "isMode": false
+    },
+    {
+      "index": 3,
+      "name": "Захватить мир",
+      "isDone": false,
+      "isMode": false
+    }
+  ]
+}
